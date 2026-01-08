@@ -1,1 +1,3 @@
 # kurs
+
+ny tekst 
